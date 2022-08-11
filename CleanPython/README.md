@@ -4,5 +4,5 @@
 >
 > Lean Python: Elegant Coding in Python
 
-![](/Users/sampras/Desktop/开源学习/python_algo/CleanPython/pics/cleanpython.jpg)
+![](pics/cleanpython.jpg)
 
